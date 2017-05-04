@@ -83,7 +83,7 @@ options:
     description:
       - If this is set to True the first newline after a block is removed (block, not variable tag!).
     default: "no"
-    version_added: '2.3'
+    version_added: '2.4'
   force:
     description:
       - the default is C(yes), which will replace the remote file when contents
